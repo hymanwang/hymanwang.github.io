@@ -2,6 +2,11 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>http://hymanwang.github.io/404.html</loc>
+    <lastmod>2014-10-16T04:23:07.000Z</lastmod>
+  </url>
+  
+  <url>
     <loc>http://hymanwang.github.io/about/index.html</loc>
     <lastmod>2014-10-15T13:35:35.000Z</lastmod>
   </url>
